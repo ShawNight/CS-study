@@ -109,3 +109,18 @@ c.rehash(n)					//重新存储，使得bucket_count>=n
 c.reverse(n)				//重组存储，使得c可以保存n个元素且不必rehash
 ```
 
+
+
+
+
+### 第十二章 关联容器
+
+##### 1、shared_ptr类
+
+##### 2、unique_ptr类
+
+##### 3、weak_ptr类
+
+##### 4、allocator类
+
+### 第十三章 拷贝控制
